@@ -1,4 +1,4 @@
-# Persona-Style Portfolio — Meraj Rahman
+# Persona-Style Portfolio — Mohamad Azhar bin Janius
 
 A Persona 5 menu-inspired portfolio, structured as Model–View–Controller.
 
